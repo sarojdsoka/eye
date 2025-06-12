@@ -1,7 +1,7 @@
 # eye
 <p align="center">
   <a href="https://www.pling.com/p/2280054/">
-    <img alt="kuro the cat" src="eye.dokies/contents/splash/images/cat.gif" width="220"/>
+    <img alt="kuro the cat" src="eye.dokies/contents/splash/images/eye.gif" width="220"/>
   </a>
 </p>
 ## Installation
