@@ -1,7 +1,9 @@
 # eye
 <p align="center">
+    <a href="https://www.pling.com/p/2295515/">
     <img alt="kuro the cat" src="eye.dokies/contents/splash/images/eye.gif" width="220"/>
-</p>
+    </a>
+    </p>
 
 ### Installation
 
