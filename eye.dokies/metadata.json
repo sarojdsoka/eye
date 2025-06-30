@@ -9,7 +9,7 @@
         ],
         "Category": "",
         "Description": "Your pc is watching you",
-        "Id": "custom.SplashScreen",
+        "Id": "eye.SplashScreen",
         "License": "GPLv3",
         "Name": "Eye",
         "Website": "https://nirantar.rf.gd"
