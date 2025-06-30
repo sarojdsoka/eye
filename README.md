@@ -29,17 +29,26 @@ Follow these steps to manually install the eyes Plasma bootsplash screen:
 
 Clone the RepositoryDownload the bootsplash theme files by cloning this repository:
 
-```git clone https://github.com/sarojdsoka/eye.git```
-```cd eye```
+```bash
+git clone https://github.com/sarojdsoka/eye.git
+```
+
+```bash
+cd eye
+```
 
 Copy Theme FilesCopy the bootsplash theme folder to the Plasma look-and-feel directory:
 If directory is not created then run this command:
 
-```mkdir -p ~/.local/share/plasma/look-and-feel/```
+```bash 
+mkdir -p ~/.local/share/plasma/look-and-feel/
+```
 
 If directory is existing then run this Command:
 
-```cp -r eye.dokies ~/.local/share/plasma/look-and-feel/```
+```bash
+cp -r eye.dokies ~/.local/share/plasma/look-and-feel/
+```
 
 **Apply the Bootsplash ThemeOpen System Settings in KDE Plasma:**
 
@@ -50,7 +59,9 @@ Click Apply.
 
 Test the BootsplashReboot your system to verify the bootsplash screen:
 
-```reboot```
+```bash 
+reboot
+```
 
 
 
