@@ -81,5 +81,5 @@ Permission issues: Ensure you have write permissions in ~/.local/share/plasma/lo
 If needed, fix permissions:chmod -R u+rw ~/.local/share/plasma/look-and-feel/
 
 License
-This project is licensed under the GPvL2 License. See the LICENSE file for details.
+This project is licensed under the GPvL3 License. See the LICENSE file for details.
 
